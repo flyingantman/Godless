@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: eac354f31d347dc428986e12420ea4d4
+timeCreated: 1482214359
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ari test grid final_0
+    21300002: ari test grid final_1
+    21300004: ari test grid final_2
+    21300006: ari test grid final_3
+    21300008: ari test grid final_4
+    21300010: ari test grid final_5
+    21300012: ari test grid final_6
+    21300014: ari test grid final_7
+    21300016: ari test grid final_8
+    21300018: ari test grid final_9
+    21300020: ari test grid final_10
+    21300022: ari test grid final_11
+    21300024: ari test grid final_12
+    21300026: ari test grid final_13
+    21300028: ari test grid final_14
+    21300030: ari test grid final_15
+    21300032: ari test grid final_16
+    21300034: ari test grid final_17
+    21300036: ari test grid final_18
+    21300038: ari test grid final_19
+    21300040: ari test grid final_20
+    21300042: ari test grid final_21
+    21300044: ari test grid final_22
+    21300046: ari test grid final_23
+    21300048: ari test grid final_24
+    21300050: ari test grid final_25
+    21300052: ari test grid final_26
+    21300054: ari test grid final_27
+    21300056: ari test grid final_28
+    21300058: ari test grid final_29
+    21300060: ari test grid final_30
+    21300062: ari test grid final_31
+    21300064: ari test grid final_32
+    21300066: ari test grid final_33
+    21300068: ari test grid final_34
+    21300070: ari test grid final_35
+    21300072: ari test grid final_36
+    21300074: ari test grid final_37
+    21300076: ari test grid final_38
+    21300078: ari test grid final_39
+    21300080: ari test grid final_40
+    21300082: ari test grid final_41
+    21300084: ari test grid final_42
+    21300086: ari test grid final_43
+    21300088: ari test grid final_44
+    21300090: ari test grid final_45
+    21300092: ari test grid final_46
+    21300094: ari test grid final_47
+    21300096: ari test grid final_48
+    21300098: ari test grid final_49
+    21300100: ari test grid final_50
+    21300102: ari test grid final_51
+    21300104: ari test grid final_52
+    21300106: ari test grid final_53
+    21300108: ari test grid final_54
+    21300110: ari test grid final_55
+    21300112: ari test grid final_56
+    21300114: ari test grid final_57
+    21300116: ari test grid final_58
+    21300118: ari test grid final_59
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ari test grid final_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 874
+        width: 100
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ari test grid final_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 874
+        width: 100
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ari test grid final_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 100
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ari test grid final_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 724
+        width: 100
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ari test grid final_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 724
+        width: 100
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ari test grid final_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 724
+        width: 100
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ari test grid final_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 724
+        width: 100
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ari test grid final_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 724
+        width: 100
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ari test grid final_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 724
+        width: 100
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ari test grid final_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 724
+        width: 100
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
